@@ -316,6 +316,7 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
+
 <img width="747" height="595" alt="image" src="https://github.com/user-attachments/assets/ad64e408-fc6f-4228-9215-eff19a678f2e" />
 
 <img width="745" height="463" alt="image" src="https://github.com/user-attachments/assets/8e76f1a4-c581-40a1-ac75-e30c38b326ed" />
@@ -328,11 +329,14 @@ plt.show()
 
 <img width="625" height="396" alt="image" src="https://github.com/user-attachments/assets/25c7e221-0f9b-4ddc-9ee0-ce3e260e65d4" />
 
+
 - **ii)** Adjust Image Brightness.
-  <img width="755" height="178" alt="image" src="https://github.com/user-attachments/assets/95ff19ce-6ee9-495e-acd4-2ecb0611ba36" />
+
+  
+<img width="755" height="178" alt="image" src="https://github.com/user-attachments/assets/95ff19ce-6ee9-495e-acd4-2ecb0611ba36" />
 
 - **iii)** Modify Image Contrast.
-  <img width="783" height="200" alt="image" src="https://github.com/user-attachments/assets/5f6450c5-04e0-4e30-b6bf-3816d7154417" />
+<img width="783" height="200" alt="image" src="https://github.com/user-attachments/assets/5f6450c5-04e0-4e30-b6bf-3816d7154417" />
 
 <img width="772" height="202" alt="image" src="https://github.com/user-attachments/assets/1d4e544f-23dc-4a91-a671-77ed53d722b6" />
 
